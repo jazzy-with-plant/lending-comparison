@@ -7,6 +7,8 @@ A source-first portfolio project for comparing two lending systems that use the 
 
 The dashboard reads current official APIs, records its own Hyperliquid observations to SQLite, derives only documented metrics, and marks every research scenario as simulated. Missing data stays **Unavailable**.
 
+**Live demo:** [lending-market-structure-lab.mingchenliang954.chatgpt.site](https://lending-market-structure-lab.mingchenliang954.chatgpt.site) — public access, no sign-in required.
+
 ![Desktop dashboard](screenshots/desktop.png)
 
 ## What works
